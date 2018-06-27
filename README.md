@@ -9,3 +9,7 @@ Implemented shell using concepts of Operating System.
 - `cmake ..`
 - `make`
 - `./Shell`
+
+## Requirements :- 
+- Minimum version of cmake 3.5.1
+- c++11
